@@ -1,4 +1,3 @@
 # CO2_Transmitter_PICO
-Using CO2 Transmitter on Raspberry Pi PICO(Micropython)
-The main communication is RS485
-Sorry for bad english
+Wiring Diagram
+![alt text](https://github.com/BoKKoDesu/CO2_Transmitter_PICO/blob/main/CO2_Transmitter_Wiring_bb.png?raw=true)
